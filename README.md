@@ -15,7 +15,3 @@ Or
 Example
 ```./cat.py ./test_cat.txt```
 
-## Author Name
-
-[Alexander Monterrosa](https://github.com/Alex108-lab)
-
